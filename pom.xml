@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.javatechie</groupId>
-	<artifactId>spring-reactive-mongo-crud</artifactId>
+	<artifactId>springwebflux-reactive-mongo-crud</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-reactive-mongo-crud</name>
 	<description>Demo project for Spring Boot</description>
